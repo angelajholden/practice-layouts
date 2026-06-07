@@ -1,0 +1,110 @@
+/*
+.cabin-<uniquifier> {
+  font-family: "Cabin", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.playfair-display-<uniquifier> {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+*/
+:root {
+	--gold: #857500;
+	--blue: #3c3d94;
+	--lt-blue: #4e52a5;
+	--black: #222;
+	--gray: #eaeaea;
+	--lt-gray: #f8f8f8;
+	--white: #fff;
+}
+
+html {
+	box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+	box-sizing: inherit;
+}
+
+body {
+	padding: 0;
+	margin: 0;
+	font-family: "Cabin", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: 400;
+	font-style: normal;
+	font-variation-settings: "wdth" 100;
+	font-size: 100%;
+	line-height: 1.65;
+	color: var(--black);
+	background-color: var(--white);
+}
+
+figure {
+	margin: 0;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+svg {
+	display: block;
+	width: 3rem;
+	height: 3rem;
+	fill: red;
+	stroke: blue;
+}
+
+button {
+	padding: 0;
+	border: none;
+	background-color: transparent;
+}
+
+h1,
+h2,
+h3,
+h4 {
+	font-family: "Playfair Display", serif;
+	font-optical-sizing: auto;
+	font-weight: 600;
+	font-style: normal;
+	line-height: 1.25;
+	margin: 0 0 1rem;
+}
+
+a {
+	color: var(--lt-blue);
+	text-decoration-color: var(--lt-blue);
+	text-decoration-thickness: 2px;
+	text-underline-offset: 3px;
+	transition: text-decoration-color 300ms ease-in-out;
+}
+
+a:focus,
+a:hover,
+a:active {
+	color: var(--lt-blue);
+	text-decoration-color: transparent;
+}
+
+.access-hidden {
+	clip: rect(0 0 0 0);
+	clip-path: inset(50%);
+	height: 1px;
+	overflow: hidden;
+	position: absolute;
+	white-space: nowrap;
+	width: 1px;
+}

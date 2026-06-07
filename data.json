@@ -1,0 +1,15 @@
+[
+	{
+		"title": "Adventure Begins",
+		"category": "Adventure",
+		"date": "2026-06-06T00:00:00-05:00",
+		"author": "Angela",
+		"desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus dolores dolorem in ratione corporis repellat consectetur, quae quisquam eos nihil incidunt, similique, laborum nobis non!",
+		"image": "images/heidi-the-sheltie-looking-out-window.jpg",
+		"alt": "Heidi the sheltie looking out the window.",
+		"url": "https://angelajholden.com",
+		"github": "https://github.com/angelajholden/angelajholden_static",
+		"youtube_title": "Dynamic Blog from Scratch | HTML CSS JavaScript",
+		"youtube_id": "N9SFp7H0g0Q"
+	}
+]
