@@ -254,6 +254,7 @@ a:active {
 	border-radius: 0;
 	border: none;
 	border-bottom: 1px solid var(--mid-gray);
+	background-color: var(--white);
 }
 
 .search_form svg {
@@ -280,6 +281,7 @@ a:active {
 		left: 0;
 		width: 100%;
 		padding: 1rem;
+		box-shadow: 0 1px 1px 1px rgba(0, 0, 0, 10%);
 		z-index: 3;
 	}
 
@@ -289,20 +291,35 @@ a:active {
 	}
 
 	.search_form {
+		visibility: visible;
 		position: absolute;
 		top: 100%;
+		transform: translateY(0);
 		left: 0;
 		width: 100%;
-		padding: 0 1rem 1rem;
+		padding: 1rem;
+		border-top: 2px solid var(--gray);
 		box-shadow: 0 1px 1px 1px rgba(0, 0, 0, 10%);
+		background-color: var(--lt-gray);
+		z-index: -1;
+		transition:
+			transform 300ms ease-in-out,
+			visibility 300ms ease-in-out;
+	}
+
+	.scrolled .search_form {
+		visibility: hidden;
+		transform: translateY(-200px);
 	}
 
 	.search_label {
+		top: 60%;
 		left: 1rem;
 	}
 
 	.search_input {
 		width: 100%;
+		background-color: var(--lt-gray);
 	}
 
 	.search_form svg {
@@ -445,13 +462,28 @@ a:active {
 	.menu_open {
 		padding: 0.5rem;
 		border-radius: 5px;
+		border: 2px solid var(--blue);
 		background-color: var(--blue);
+		transition: background-color 300ms ease-in-out;
+	}
+
+	.menu_open:focus,
+	.menu_open:hover,
+	.menu_open:active {
+		background-color: transparent;
 	}
 
 	.menu_open svg {
 		width: 2rem;
 		height: 2rem;
 		stroke: var(--white);
+		transition: stroke 300ms ease-in-out;
+	}
+
+	.menu_open:focus svg,
+	.menu_open:hover svg,
+	.menu_open:active svg {
+		stroke: var(--blue);
 	}
 
 	.menu_close {
