@@ -7,7 +7,7 @@ export default function initOnScroll() {
 			body.classList.remove("scrolled");
 			return;
 		}
-		body.classList.toggle("scrolled", window.scrollY > 100);
+		body.classList.toggle("scrolled", window.scrollY > 50);
 	}
 
 	window.addEventListener("scroll", updateHeader);
