@@ -1,0 +1,252 @@
+[
+	{
+		"title": "Scenic",
+		"category": "HTML CSS JavaScript Website",
+		"date": "2026-02-15T18:53:12.000Z",
+		"author": "Angela",
+		"desc": "Designed in 2015, and meant to be a WordPress theme, I found this PSD when I was browsing old files. I decided instead to build it as a static website using HTML, vanilla CSS and JavaScript. It also has a working contact form using a Form Spree endpoint.",
+		"image": "https://angelajholden.com/images/projects/angelajholden-scenic.jpg",
+		"alt": "Screenshot of Scenic demo website",
+		"links": [
+			{
+				"label": "Live Demo",
+				"url": "https://scenic.practicelayouts.com/"
+			},
+			{
+				"label": "GitHub",
+				"url": "https://github.com/angelajholden/scenic"
+			},
+			{
+				"label": "YouTube",
+				"url": ""
+			}
+		],
+		"youtube_title": "",
+		"youtube_id": ""
+	},
+	{
+		"title": "Coffee, But No Tea",
+		"category": "4 Page Static Website",
+		"date": "2026-01-22T17:27:30.000Z",
+		"author": "Angela",
+		"desc": "Designed in 2014 as a one page landing site, I found this PSD when I was browsing old files. I decided to build it as a static website using HTML, vanilla CSS and JavaScript. It also has a working contact form using a Form Spree endpoint.",
+		"image": "https://angelajholden.com/images/projects/angelajholden-coffee-no-tea.jpg",
+		"alt": "Screenshot of Coffee, but no Tea demo website",
+		"youtube_title": "",
+		"youtube_id": "",
+		"links": [
+			{
+				"label": "Live Demo",
+				"url": "https://coffee.practicelayouts.com/"
+			},
+			{
+				"label": "GitHub",
+				"url": "https://github.com/angelajholden/coffee-but-no-tea"
+			},
+			{
+				"label": "YouTube",
+				"url": ""
+			}
+		]
+	},
+	{
+		"title": "Responsive Video Gallery",
+		"category": "Vanilla JS",
+		"date": "2026-01-07T18:30:02.000Z",
+		"author": "Angela",
+		"desc": "Responsive Video Gallery was my first open source project, originally built in December 2013 using jQuery. After more than a decade, I rebuilt the UI with only vanilla JavaScript to remove all dependencies. I also included a toggle for light and dark mode.",
+		"image": "https://angelajholden.com/images/projects/angelajholden-responsive-video-gallery.jpg",
+		"alt": "Screenshot of Responsive Video Gallery production website",
+		"youtube_title": "",
+		"youtube_id": "",
+		"links": [
+			{
+				"label": "Live Demo",
+				"url": "https://responsivevideogallery.com/"
+			},
+			{
+				"label": "GitHub",
+				"url": "https://github.com/angelajholden/responsive-video-gallery"
+			},
+			{
+				"label": "YouTube",
+				"url": ""
+			}
+		]
+	},
+	{
+		"title": "Italia",
+		"category": "CSS Grid Layout",
+		"date": "2025-12-07T18:32:29.000Z",
+		"author": "Angela",
+		"desc": "This is CSS Grid landing page built with HTML, vanilla CSS and JavaScript. It's based on a Photoshop mockup called INK - Elegant Magazine Blog PSD Template, purchased from Envato/ThemeForest.",
+		"image": "https://angelajholden.com/images/projects/angelajholden-italia-ink-grid.jpg",
+		"alt": "Screenshot of Italia, a CSS Grid demo website",
+		"youtube_title": "",
+		"youtube_id": "",
+		"links": [
+			{
+				"label": "Live Demo",
+				"url": "https://italia.practicelayouts.com/"
+			},
+			{
+				"label": "GitHub",
+				"url": "https://github.com/angelajholden/ink-grid-layout"
+			},
+			{
+				"label": "YouTube",
+				"url": ""
+			}
+		]
+	},
+	{
+		"title": "Responsive Navbar Build",
+		"category": "No Talking Timelapse",
+		"date": "2025-11-03T03:30:44.000Z",
+		"author": "Angela",
+		"desc": "This demo page is an example of a responsive and accessible navbar. After years fine tuning my process for building navigation, this system ensures navigation is both mobile responsive and accessible for screen readers and keyboard navigation.",
+		"image": "https://angelajholden.com/images/projects/angelajholden-responsive-navbar.jpg",
+		"alt": "Screenshot of Responsive Navbar demo navigation",
+		"youtube_title": "Responsive Navbar Build (HTML CSS JavaScript) No Talking Time Lapse",
+		"youtube_id": "qy_ctSLSuf4",
+		"links": [
+			{
+				"label": "Live Demo",
+				"url": "https://angelajholden.github.io/navbar/navbar-timelapse/"
+			},
+			{
+				"label": "GitHub",
+				"url": "https://github.com/angelajholden/navbar/tree/main/navbar-timelapse"
+			},
+			{
+				"label": "YouTube",
+				"url": "https://www.youtube.com/watch?v=qy_ctSLSuf4"
+			}
+		]
+	},
+	{
+		"title": "Fiber & Kraft",
+		"category": "Homepage Clone",
+		"date": "2025-10-27T21:09:51.000Z",
+		"author": "Angela",
+		"desc": "This landing page is a clone of the KnitPicks.com homepage. Using my own assets, color scheme, images and content; and I copied the layout. Fiber & Kraft is a personal project for my my knitting, crocheting, spinning and yarn dyeing hobbies.",
+		"image": "https://angelajholden.com/images/projects/angelajholden-fiber-and-kraft.jpg",
+		"alt": "Screenshot of Fiber & Kraft production website",
+		"youtube_title": "Learn Web Dev by Cloning a Real Site | HTML CSS JS + Deploy Project",
+		"youtube_id": "tYhZKDEosnA",
+		"links": [
+			{
+				"label": "Live Demo",
+				"url": "https://fiberandkraft.com/"
+			},
+			{
+				"label": "GitHub",
+				"url": "https://github.com/angelajholden/fiber-and-kraft"
+			},
+			{
+				"label": "YouTube",
+				"url": "https://www.youtube.com/watch?v=tYhZKDEosnA"
+			}
+		]
+	},
+	{
+		"title": "Instagram Profile",
+		"category": "HTML + Vanilla CSS",
+		"date": "2025-09-29T17:26:14.000Z",
+		"author": "Angela",
+		"desc": "Using HTML and vanilla CSS, this is a clone of the Instagram profile from the iOS mobile app in November 2025. It's a UI only, I didn't try to recreate the full functionality of the Instagram mobile app.",
+		"image": "https://angelajholden.com/images/projects/angelajholden-instagram-grid-profile-1.jpg",
+		"alt": "Screenshot of Instagram Profile demo website",
+		"youtube_title": "Build an Instagram Profile User Interface | HTML + CSS Project",
+		"youtube_id": "oFFR4zx1Uss",
+		"links": [
+			{
+				"label": "Live Demo",
+				"url": "https://angelajholden.github.io/ig-grid-profile/"
+			},
+			{
+				"label": "GitHub",
+				"url": "https://github.com/angelajholden/ig-grid-profile"
+			},
+			{
+				"label": "YouTube",
+				"url": "https://www.youtube.com/watch?v=oFFR4zx1Uss"
+			}
+		]
+	},
+	{
+		"title": "Solo Masonry",
+		"category": "CSS Grid Columns",
+		"date": "2025-09-28T01:29:11.000Z",
+		"author": "Angela",
+		"desc": "This is a landing page with a sticky, on-scroll header, built with HTML, CSS and vanilla JavaScript. It's based on a Photoshop mockup called Solo - Modern Personal Blog PSD Template, purchased from Envato/ThemeForest.",
+		"image": "https://angelajholden.com/images/projects/angelajholden-solo-masonry.jpg",
+		"alt": "Screenshot of Solo Masonry CSS Columns Layout demo website",
+		"youtube_title": "Build a Landing Page with HTML, CSS + JavaScript | Sticky Header on Scroll",
+		"youtube_id": "32XwCadbGrQ",
+		"links": [
+			{
+				"label": "Live Demo",
+				"url": "https://solo-masonry.practicelayouts.com/"
+			},
+			{
+				"label": "GitHub",
+				"url": "https://github.com/angelajholden/solo-masonry"
+			},
+			{
+				"label": "YouTube",
+				"url": "https://www.youtube.com/watch?v=32XwCadbGrQ"
+			}
+		]
+	},
+	{
+		"title": "LaBelle",
+		"category": "JavaScript Category Filter",
+		"date": "2025-09-08T17:36:34.000Z",
+		"author": "Angela",
+		"desc": "This is a simple, clean category filter page built with HTML, CSS and vanilla JavaScript. It's based on a Photoshop mockup called LaBelle - Fashion PSD Templates, purchased from Envato/ThemeForest.",
+		"image": "https://angelajholden.com/images/projects/angelajholden-category-filter.jpg",
+		"alt": "Screenshot of LaBelle Category Filter demo website",
+		"youtube_title": "Build a Product Filter Website | HTML CSS JavaScript",
+		"youtube_id": "aQsARcmmX4g",
+		"links": [
+			{
+				"label": "Live Demo",
+				"url": "https://angelajholden.github.io/category-filter/"
+			},
+			{
+				"label": "GitHub",
+				"url": "https://github.com/angelajholden/category-filter"
+			},
+			{
+				"label": "YouTube",
+				"url": "https://www.youtube.com/watch?v=aQsARcmmX4g"
+			}
+		]
+	},
+	{
+		"title": "San Mari",
+		"category": "HTML, Vanilla CSS + JS",
+		"date": "2025-09-03T14:40:07.000Z",
+		"author": "Angela",
+		"desc": "This landing page is built with HTML, vanilla CSS and JavaScript. It's a product page with a filter for sorting. It's based on a Photoshop mockup called San Mari - Blog PSD Template, purchased from Envato/ThemeForest.",
+		"image": "https://angelajholden.com/images/projects/angelajholden-san-mari.jpg",
+		"alt": "Screenshot of San Mari Products demo website",
+		"youtube_title": "Frontend Development Project | Build a Product Filter from Scratch (HTML CSS JS)",
+		"youtube_id": "0i4eJ6VUqwQ",
+		"links": [
+			{
+				"label": "Live Demo",
+				"url": "https://angelajholden.github.io/san-mari-products/"
+			},
+			{
+				"label": "GitHub",
+				"url": "https://github.com/angelajholden/san-mari-products"
+			},
+			{
+				"label": "YouTube",
+				"url": "https://www.youtube.com/watch?v=0i4eJ6VUqwQ"
+			}
+		]
+	}
+]
