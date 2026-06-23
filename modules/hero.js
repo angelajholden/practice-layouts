@@ -1,7 +1,12 @@
 export default function initHero() {
-	async function fetchSharedData() {
+	let url = window.location.origin;
+	if (url === "https://angelajholden.github.io") {
+		url = `${url}/practice-layouts`;
+	}
+
+	async function fetchData() {
 		try {
-			const response = await fetch("../data/data.json");
+			const response = await fetch(`${url}/data/data.json`);
 			if (!response.ok) {
 				throw new Error(`HTTP error! status: ${response.status}`);
 			}
@@ -13,7 +18,7 @@ export default function initHero() {
 	}
 
 	async function init() {
-		const data = await fetchSharedData();
+		const data = await fetchData();
 		if (!data) return;
 
 		const root = document.querySelector(".hero");
@@ -65,6 +70,11 @@ export default function initHero() {
 			span.classList.add("access-hidden");
 			span.textContent = `${item.title} Live Demo`;
 
+			/**
+			 * The createElementNS() method of the Document interface creates
+			 * a new element with the specified namespace URI and qualified name.
+			 * https://developer.mozilla.org/en-US/docs/Web/API/Document/createElementNS
+			 */
 			const ns = "http://www.w3.org/2000/svg";
 			const svg = document.createElementNS(ns, "svg");
 			svg.setAttribute("aria-hidden", "true");
