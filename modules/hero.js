@@ -37,7 +37,10 @@ export default function initHero() {
 			div.classList.add("meta_info");
 
 			let dateStyle = new Date(item.date);
-			dateStyle = dateStyle.toLocaleString("en-US", { dateStyle: "medium" });
+			dateStyle = dateStyle.toLocaleString("en-US", {
+				month: "long",
+				year: "numeric",
+			});
 
 			const time = document.createElement("time");
 			time.dateTime = item.date.slice(0, 10);
@@ -52,13 +55,15 @@ export default function initHero() {
 
 			const slicedLinks = item.links.slice(1, 3);
 			slicedLinks.forEach((link) => {
-				const li = document.createElement("li");
-				const projectLink = document.createElement("a");
-				projectLink.href = link.url;
-				projectLink.textContent = link.label;
-				projectLink.target = "_blank";
-				li.append(projectLink);
-				ul.append(li);
+				if (link.url) {
+					const li = document.createElement("li");
+					const projectLink = document.createElement("a");
+					projectLink.href = link.url;
+					projectLink.textContent = link.label;
+					projectLink.target = "_blank";
+					li.append(projectLink);
+					ul.append(li);
+				}
 			});
 
 			const heroLink = document.createElement("a");
