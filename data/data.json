@@ -126,7 +126,7 @@
 	},
 	{
 		"title": "Fiber & Kraft",
-		"category": "Homepage Clone",
+		"category": "Website Clone",
 		"date": "2025-10-27T21:09:51.000Z",
 		"author": "Angela",
 		"desc": "This landing page is a clone of the KnitPicks.com homepage. Using my own assets, color scheme, images and content; and I copied the layout. Fiber & Kraft is a personal project for my my knitting, crocheting, spinning and yarn dyeing hobbies.",
@@ -201,7 +201,7 @@
 	},
 	{
 		"title": "LaBelle",
-		"category": "JavaScript Category Filter",
+		"category": "JS Category Filter",
 		"date": "2025-09-08T17:36:34.000Z",
 		"author": "Angela",
 		"desc": "This is a simple, clean category filter page built with HTML, CSS, and vanilla JavaScript. It's based on a Photoshop mockup called LaBelle - Fashion PSD Templates, purchased from Envato/ThemeForest.",
@@ -252,7 +252,7 @@
 	{
 		"title": "Printable Resume Website",
 		"category": "HTML CSS JS",
-		"date": "",
+		"date": "2025-08-04T14:05:56.000Z",
 		"author": "Angela",
 		"desc": "This resume website is printable, accessible, responsive, and powered by vanilla HTML, CSS and JavaScript. It's part of a Photoshop mockup called Hilltop - PSD Template for Creative Professionals, purchased from Envato/ThemeForest.",
 		"image": "https://angelajholden.com/images/projects/angelajholden-resume-website.jpg",
@@ -276,8 +276,8 @@
 	},
 	{
 		"title": "Hilltop",
-		"category": "Landing Page Website with HTML, Vanilla CSS + JavaScript",
-		"date": "",
+		"category": "HTML, Vanilla CSS + JavaScript",
+		"date": "2025-07-27T18:58:54.000Z",
 		"author": "Angela",
 		"desc": "This is a landing page website built with HTML, vanilla CSS and JavaScript. It's based on a Photoshop mockup called Hilltop - PSD Template for Creative Professionals, purchased from Envato/ThemeForest.",
 		"image": "https://angelajholden.com/images/projects/angelajholden-hilltop-landing-page.jpg",
@@ -301,8 +301,8 @@
 	},
 	{
 		"title": "Personal Portfolio Website",
-		"category": "PHP, HTML, SCSS & JavaScript",
-		"date": "",
+		"category": "PHP, HTML, SCSS & JS",
+		"date": "2025-04-06T19:00:11.000Z",
 		"author": "Angela",
 		"desc": "Follow along as I build my new website from the ground up using PHP, semantic HTML, SCSS, and vanilla JavaScript. There's plenty of project planning, QA, and real-time problem solving along the way—just like a real dev workflow.",
 		"image": "https://angelajholden.com/images/projects/angelajholden-portfolio-website.jpg",
@@ -326,8 +326,8 @@
 	},
 	{
 		"title": "The Ocean",
-		"category": "Blog website with HTML, SCSS & JavaScript",
-		"date": "",
+		"category": "HTML, SCSS & JavaScript",
+		"date": "2025-06-07T21:16:35.000Z",
 		"author": "Angela",
 		"desc": "This is a simple, clean blog site built with HTML, SCSS, and vanilla JavaScript. It's based on a Photoshop mockup called Ocean - Personal Blog Template for Travelers and Dreamers, purchased from Envato/ThemeForest.",
 		"image": "https://angelajholden.com/images/projects/angelajholden-ocean-blog-static-website.jpg",
@@ -352,7 +352,7 @@
 	{
 		"title": "Style Guide & Project Planning",
 		"category": "Project Planning",
-		"date": "",
+		"date": "2024-11-25T15:14:08.000Z",
 		"author": "Angela",
 		"desc": "In this project, we dive into the early stages of front-end project planning. Watch as we write user stories to define project goals and build a custom style guide using Affinity Photo. These videos lay the groundwork for strong, focused UI development.",
 		"image": "https://angelajholden.com/images/projects/angelajholden-style-guide.jpg",
@@ -377,7 +377,7 @@
 	{
 		"title": "Product List with Cart",
 		"category": "Frontend Mentor",
-		"date": "",
+		"date": "2024-11-17T23:06:40.000Z",
 		"author": "Angela",
 		"desc": "Join me as I tackle a fun Frontend Mentor challenge where I'll build a product list with an interactive shopping cart from scratch! We'll dive into HTML, CSS, and JavaScript to create a clean, responsive layout, and I'll walk you through adding key features like item quantities, total pricing, and cart updates.",
 		"image": "https://angelajholden.com/images/projects/angelajholden-frontend-mentor-product-cart-with-list.jpg",
@@ -401,8 +401,8 @@
 	},
 	{
 		"title": "Blog Layout with Category Filter",
-		"category": "Photoshop to Finish",
-		"date": "",
+		"category": "PSD to Finish",
+		"date": "2024-10-20T20:40:19.000Z",
 		"author": "Angela",
 		"desc": "Follow along as I build a responsive blog-style layout from a Photoshop mockup using HTML, SCSS, and JavaScript. In this series, I cover key steps from design setup to clean, accessible code, perfect for anyone looking to sharpen their front-end skills.",
 		"image": "https://angelajholden.com/images/projects/angelajholden-blog-layout-with-category-filter.jpg",
@@ -427,7 +427,7 @@
 	{
 		"title": "Build a Pinterest Masonry Layout",
 		"category": "HTML, SCSS & JavaScript",
-		"date": "",
+		"date": "2024-09-28T20:51:00.000Z",
 		"author": "Angela",
 		"desc": "In this 2-part live stream series, watch as I walk through the step-by-step process of building a responsive masonry layout using HTML, SCSS, and JavaScript. From setting up the structure to creating a dynamic, Pinterest-style grid, you'll learn how to create a beautiful and functional layout that adapts to different screen sizes.",
 		"image": "https://angelajholden.com/images/projects/angelajholden-masonry-layout.jpg",
@@ -452,7 +452,7 @@
 	{
 		"title": "Build a Modal Window",
 		"category": "HTML, SCSS & JavaScript",
-		"date": "",
+		"date": "2024-09-29T21:18:55.000Z",
 		"author": "Angela",
 		"desc": "In this live stream series, we'll break down building a modal window step by step using HTML, SCSS, and JavaScript. From the basic structure to styling and adding interactive features, you'll have everything you need to create your own custom modals.",
 		"image": "https://angelajholden.com/images/projects/angelajholden-modal-window-project.jpg",
@@ -477,7 +477,7 @@
 	{
 		"title": "Building a Landing Page",
 		"category": "HTML, CSS & JavaScript",
-		"date": "",
+		"date": "2024-09-09T23:30:29.000Z",
 		"author": "Angela",
 		"desc": "In this project, we're turning a Photoshop mockup into a fully functional landing page called Soho using HTML, vanilla CSS, and JavaScript. Over the course of eight live streams, we dive deep into creating a page that's responsive, accessible, and packed with smooth navigation and submenus (we spent 4 videos perfecting them).",
 		"image": "https://angelajholden.com/images/projects/angelajholden-landing-page-html-css.jpg",
