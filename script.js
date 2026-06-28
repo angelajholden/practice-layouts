@@ -9,6 +9,7 @@ initOnScroll();
 
 async function init() {
 	const data = await fetchData();
+	if (!data) return;
 
 	initHero(data);
 	initProjects(data);

@@ -3,7 +3,6 @@ export function initHero(data) {
 	if (!root) return;
 
 	const heroData = data.slice(0, 3);
-
 	heroData.forEach((item) => {
 		const article = document.createElement("article");
 		article.classList.add("hero_item");
@@ -71,8 +70,6 @@ export function initHero(data) {
 		path.setAttribute("stroke-width", "48");
 		path.setAttribute("d", "M184 112l144 144-144 144");
 
-		svg.append(path);
-
 		const figure = document.createElement("figure");
 		figure.classList.add("figure");
 
@@ -81,6 +78,7 @@ export function initHero(data) {
 		img.alt = item.alt;
 
 		div.append(time, h2, ul);
+		svg.append(path);
 		heroLink.append(span, svg);
 		header.append(div, heroLink);
 		figure.append(img);
